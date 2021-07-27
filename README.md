@@ -5,9 +5,9 @@ It contains the processing code for virtual cube simulator and solver part. It a
 
 ## Simulator Part
 - Praveen Singh
-- Tanya 
+- Tanya K Kumar
 
-## Solver Part
+## Integration Part
 - Mandar Wayal
 - Debanjan Manna
 - Narendra Prajapat
