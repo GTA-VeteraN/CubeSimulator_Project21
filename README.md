@@ -7,7 +7,7 @@ It contains the processing code for virtual cube simulator and solver part. It a
 - Praveen Singh
 - Tanya 
 
-## Team Members:
+## Solver Part
 - Mandar Wayal
 - Debanjan Manna
 - Narendra Prajapat
