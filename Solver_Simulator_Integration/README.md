@@ -1,11 +1,11 @@
 # [Solver Simulator Integration](./Solver_Simulator_Integration)
 
 ## Aims:
--Integrating the Solver code (Thistlethwaite method) with the 3x3 Simulation.
+- Integrating the Solver code (Thistlethwaite method) with the 3x3 Simulation.
 
--Collecting data after performing random scrambles and feeding it to the Solver code.
+- Collecting data after performing random scrambles and feeding it to the Solver code.
 
--Getting statistics
+- Getting statistics
 
 ### 1. Integration:
 
